@@ -19,8 +19,8 @@ const AppContainer = styled.div`
 
 const CardContainer = styled.div`
   margin: 8rem;
-  width: 80em;
-  height: 20em;
+  width: 65%;
+  height: 20rem;
   display: flex;
   //   border-radius: 26px;
   position: relative;

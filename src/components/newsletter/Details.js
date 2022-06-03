@@ -89,7 +89,7 @@ const Details = (props) => {
         <Header>Hey, wait...</Header>
         <SubHeader>Subscribe to our newsletter!</SubHeader>
         <Text>
-          You will never miss our podcasts, latest news, etc. Our newsletter is
+          You will never miss our latest products, news, etc. Our newsletter is
           once a week, every wednesday.
         </Text>
         <FormGroup>
